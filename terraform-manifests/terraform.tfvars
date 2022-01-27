@@ -1,4 +1,4 @@
 # Generic Variables 
-business_divsion = "hr"
-resource_group_location = "eastus"
+business_divsion = "loj"
+resource_group_location = "australiaeast"
 resource_group_name = "rg"
